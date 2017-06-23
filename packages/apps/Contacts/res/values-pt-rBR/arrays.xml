@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="menuItems">
+<item>Contatos a exibir</item>
+<item>Importar/exportar</item>
+<item>Contas</item>
+<item>Excl</item>
+<item>Mesclar contatos</item>
+</string-array>
+<string-array name="items_menu">
+<item>Colar</item>
+<item>Apagar registro de chamadas</item>
+<item>Visualizar tipo de chamada</item>
+<item>Config. discagem rápida</item>
+<item>Proteção à privacidade</item>
+<item>Num. bloq.</item>
+<item>Configurações de chamadas</item>
+</string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="menuItems">
+<item>Контакти для відображення</item>
+<item>Імпорт/експорт</item>
+<item>Облік. записи</item>
+<item>Видалити</item>
+<item>Об’єднати контакти</item>
+</string-array>
+<string-array name="items_menu">
+<item>Встав.</item>
+<item>Видалити журнал викликів</item>
+<item>Переглянути тип виклику</item>
+<item>Налаштування швидкого набору</item>
+<item>Захист конфіденційності</item>
+<item>Чорний список</item>
+<item>Налаштування виклику</item>
+</string-array>
+</resources>

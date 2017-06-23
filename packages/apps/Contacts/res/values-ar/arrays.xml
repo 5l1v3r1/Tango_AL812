@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="menuItems">
+<item>جهات الاتصال التي يتم عرضها</item>
+<item>استيراد/تصدير</item>
+<item>الحسابات</item>
+<item>حذف</item>
+<item>دمج جهات الاتصال</item>
+</string-array>
+<string-array name="items_menu">
+<item>لصق</item>
+<item>حذف سجل المكالمات</item>
+<item>عرض نوع المكالمة</item>
+<item>إعدادات الاتصال السريع</item>
+<item>حماية الخصوصية</item>
+<item>القائمة السوداء</item>
+<item>إعدادات الاتصال</item>
+</string-array>
+</resources>

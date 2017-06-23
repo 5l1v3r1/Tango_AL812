@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="menuItems">
+<item>Формат отображения</item>
+<item>Импорт/экспорт</item>
+<item>Аккаунты</item>
+<item>Удалить</item>
+<item>Объединить контакты</item>
+</string-array>
+<string-array name="items_menu">
+<item>Вставить</item>
+<item>Удаление записей списка вызовов</item>
+<item>Просмотр типа вызова</item>
+<item>Настройки быстрого набора</item>
+<item>Защита конфиденциальности</item>
+<item>Черный список</item>
+<item>Настройки вызовов</item>
+</string-array>
+</resources>

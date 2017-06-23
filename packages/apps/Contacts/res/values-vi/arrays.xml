@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="menuItems">
+<item>Hiện danh bạ theo yêu cầu</item>
+<item>Nhập/Xuất danh bạ</item>
+<item>Tài khoản</item>
+<item>Xóa</item>
+<item>Gộp các liên lạc</item>
+</string-array>
+<string-array name="items_menu">
+<item>Dán</item>
+<item>Xóa nhật ký cuộc gọi</item>
+<item>Xem loại hình cuộc gọi</item>
+<item>Cài đặt Quay số nhanh</item>
+<item>Bảo vệ quyền riêng tư</item>
+<item>Danh sách đen</item>
+<item>Cài đặt cuộc gọi</item>
+</string-array>
+</resources>

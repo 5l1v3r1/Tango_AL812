@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="menuItems">
+<item>Kontak untuk ditampilkan</item>
+<item>Impor/Ekspor</item>
+<item>Akun</item>
+<item>Hapus</item>
+<item>Gabungkan kontak</item>
+</string-array>
+<string-array name="items_menu">
+<item>Tempel</item>
+<item>Hapus daftar panggilan</item>
+<item>Lihat jenis panggilan</item>
+<item>Pengaturan panggilan cepat</item>
+<item>Perlindungan privasi</item>
+<item>Daftar hitam</item>
+<item>Pengaturan panggilan</item>
+</string-array>
+</resources>

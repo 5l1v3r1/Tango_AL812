@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="menuItems">
+<item>표시할 연락처</item>
+<item>가져오기/내보내기</item>
+<item>계정</item>
+<item>삭제</item>
+<item>연락처 병합</item>
+</string-array>
+<string-array name="items_menu">
+<item>붙여넣기</item>
+<item>통화 기록 삭제</item>
+<item>통화 유형 보기</item>
+<item>단축 번호 설정</item>
+<item>개인 정보 보호</item>
+<item>블랙 리스트</item>
+<item>통화 설정</item>
+</string-array>
+</resources>

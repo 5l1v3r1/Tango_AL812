@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="yes">"Sim"</string>
+<string name="no">"Não"</string>
+<string name="create">"Criar"</string>
+<string name="allow">"Permitir"</string>
+<string name="deny">"Recusar"</string>
+<string name="device_info_default">"Desconhecido"</string>
+<plurals name="show_dev_countdown">
+<item quantity="one">"Falta <xliff:g id="STEP_COUNT">%1$d</xliff:g> etapa para você se tornar um desenvolvedor."</item>
+<item quantity="other">"Faltam <xliff:g id="STEP_COUNT">%1$d</xliff:g> etapas para você se tornar um desenvolvedor."</item>
+</plurals>
+<string name="show_dev_on">"Você agora é um desenvolvedor!"</string>
+<string name="show_dev_already">"Não é necessário. Você já é um desenvolvedor."</string>
+<string name="header_category_wireless_networks">"Redes sem fio e outras"</string>
+<string name="header_category_connections">"Conexões"</string>
+<string name="header_category_device">"Dispositivo"</string>
+<string name="header_category_personal">"Pessoais"</string>
+<string name="header_category_access">"Acesso"</string>
+<string name="header_category_system">"Sistema"</string>
+<string name="turn_on_radio">"Ativar o rádio"</string>
+<string name="turn_off_radio">"Desativar o rádio"</string>
+<string name="sms_over_ims_on">"Ligar SMS sobre IMS"</string>
+<string name="sms_over_ims_off">"Desligar SMS sobre IMS"</string>
+<string name="ims_reg_required_on">"É obrigatório ligar o registro IMS"</string>
+<string name="ims_reg_required_off">"É obrigatório desligar o registro IMS"</string>
+<string name="lte_ram_dump_on">"Ativar descarga de ram do lte"</string>
+<string name="lte_ram_dump_off">"Desativar descarga de ram do lte"</string>
+<string name="radioInfo_menu_viewADN">"Visualizar o catálogo de endereços do SIM"</string>
+<string name="radioInfo_menu_viewFDN">"Visualizar números de chamada fixa"</string>
+<string name="radioInfo_menu_viewSDN">"Visualizar números de chamada de serviço"</string>
+<string name="radioInfo_menu_getPDP">"Obter a lista PDP"</string>
+<string name="radioInfo_service_in">"Em serviço"</string>
+<string name="radioInfo_service_out">"Fora de serviço"</string>
+<string name="radioInfo_service_emergency">"Só chamadas de emergência"</string>
+<string name="radioInfo_service_off">"Rádio desativado"</string>
+<string name="radioInfo_roaming_in">"Roaming"</string>
+<string name="radioInfo_roaming_not">"Não está em roaming"</string>
+<string name="radioInfo_phone_idle">"Ocioso"</string>
+<string name="radioInfo_phone_ringing">"Tocando"</string>
+<string name="radioInfo_phone_offhook">"Chamada em andamento"</string>
+<string name="radioInfo_data_disconnected">"Desconectado"</string>
+<string name="radioInfo_data_connecting">"Conectando"</string>
+<string name="radioInfo_data_connected">"Conectado"</string>
+<string name="radioInfo_data_suspended">"Suspenso"</string>
+<string name="radioInfo_unknown">"desconhecido"</string>
+<string name="radioInfo_display_packets">"pkts"</string>
+<string name="radioInfo_display_bytes">"bytes"</string>
+<string name="radioInfo_display_dbm">"dBm"</string>
+<string name="radioInfo_display_asu">"asu"</string>
+<string name="radioInfo_lac">"LAC"</string>
+<string name="radioInfo_cid">"CID"</string>
+<string name="sdcard_unmount" product="nosdcard">"Desconectar armaz. USB"</string>
+<string name="sdcard_unmount" product="default">"Desmontar cartão SD"</string>
+<string name="sdcard_format" product="nosdcard">"Apagar armazenamento USB"</string>
+<string name="sdcard_format" product="default">"Apagar cartão SD"</string>
+<string name="small_font">"Pequeno"</string>
+<string name="medium_font">"Médio"</string>
+<string name="large_font">"Grande"</string>
+<string name="font_size_save">"OK"</string>
+<string name="sdcard_setting" product="nosdcard">"Armaz. USB"</string>
+<string name="sdcard_setting" product="default">"Cartão SD"</string>
+<string name="battery_info_status_label">"Status da bateria:"</string>
+<string name="battery_info_power_label">"Tomada de alimentação:"</string>
+<string name="battery_info_scale_label">"Escala da bateria:"</string>
+<string name="battery_info_level_label">"Nível da bateria:"</string>
+<string name="battery_info_health_label">"Integridade da bateria:"</string>
+<string name="battery_info_technology_label">"Tecnologia da bateria:"</string>
+<string name="battery_info_voltage_label">"Voltagem da bateria:"</string>
+<string name="battery_info_voltage_units">"mV"</string>
+<string name="battery_info_temperature_label">"Temperatura da bateria:"</string>
+<string name="battery_info_temperature_units">"°C"</string>
+<string name="battery_info_uptime">"Tempo desde a inicialização:"</string>
+<string name="battery_info_awake_battery">"Tempo ativo da bateria:"</string>
+<string name="battery_info_awake_plugged">"Tempo ativo ao carregar:"</string>
+<string name="battery_info_screen_on">"Tempo ativo da tela:"</string>
+<string name="battery_info_status_unknown">"Desconhecido"</string>
+<string name="battery_info_status_charging">"Carregando"</string>
+<string name="battery_info_status_charging_ac">"Carregamento CA"</string>
+<string name="battery_info_status_charging_usb">"Carregamento via USB"</string>
+<string name="battery_info_status_charging_wireless">"Carregamento sem fio"</string>
+<string name="battery_info_status_discharging">"Não está carregando"</string>
+<string name="battery_info_status_not_charging">"Não está carregando"</string>
+<string name="battery_info_status_full">"Cheio"</string>
+<string name="battery_info_power_unplugged">"Desconectado"</string>
+<string name="battery_info_power_ac">"CA"</string>
+<string name="battery_info_power_usb">"USB"</string>
+<string name="battery_info_power_wireless">"sem fio"</string>
+<string name="battery_info_power_ac_usb">"CA+USB"</string>
+<string name="battery_info_power_unknown">"Desconhecido"</string>
+<string name="battery_info_health_unknown">"Desconhecido"</string>
+<string name="battery_info_health_good">"Bom"</string>
+<string name="battery_info_health_overheat">"Superaquecimento"</string>
+<string name="battery_info_health_dead">"Descarregada"</string>
+<string name="battery_info_health_over_voltage">"Sobretensão"</string>
+<string name="battery_info_health_unspecified_failure">"Erro desconhecido"</string>
+<string name="battery_info_health_cold">"Menos vistos"</string>
+<string name="bluetooth">"Bluetooth"</string>
+<string name="bluetooth_is_discoverable">"Visível para todos os disp. Bluetooth próx. (<xliff:g id="DISCOVERABLE_TIME_PERIOD">%1$s</xliff:g>)"</string>
+<string name="bluetooth_is_discoverable_always">"Visível para todos os dispos. Bluetooth próximos"</string>
+<string name="bluetooth_not_visible_to_other_devices">"Não visível para outros dispositivos Bluetooth"</string>
+<string name="bluetooth_only_visible_to_paired_devices">"Visível somente para dispositivos pareados"</string>
+<string name="bluetooth_visibility_timeout">"Tempo limite de visibilidade"</string>
+<string name="bluetooth_lock_voice_dialing">"Bloquear discagem por voz"</string>
+<string name="bluetooth_lock_voice_dialing_summary">"Impedir o uso do discador Bluetooth quando a tela estiver bloqueada."</string>
+<string name="bluetooth_devices">"Dispositivos Bluetooth"</string>
+<string name="bluetooth_device_name">"Nome do dispositivo"</string>
+<string name="bluetooth_device_details">"Configurações do dispositivo"</string>
+<string name="bluetooth_profile_details">"Configurações do perfil"</string>
+<string name="bluetooth_name_not_set">"Não há nenhum nome definido. Usando o nome da conta."</string>
+<string name="bluetooth_scan_for_devices">"Procurar dispositivos"</string>
+<string name="bluetooth_rename_device">"Renomear o dispositivo"</string>
+<string name="bluetooth_rename_button">"Renomear"</string>
+<string name="bluetooth_disconnect_title">"Desconectar?"</string>
+<string name="bluetooth_disconnect_all_profiles">"Isso encerrará sua conexão com:&lt;br&gt;<b>
+<xliff:g id="DEVICE_NAME">%1$s</xliff:g>
+</b>"</string>
+<string name="bluetooth_empty_list_user_restricted">"Você não tem permissão para alterar as configurações de Bluetooth."</string>
+<string name="bluetooth_is_visible_message">"<xliff:g id="DEVICE_NAME">%1$s</xliff:g> está visível para dispositivos próximos enquanto as configurações de Bluetooth estão abertas abertas."</string>
+<string name="bluetooth_is_disconnect_question">"Desconectar <xliff:g id="DEVICE_NAME">%1$s</xliff:g>?"</string>
+<string name="bluetooth_broadcasting">"Transmissão"</string>
+<string name="bluetooth_disable_profile_title">"Desativar perfil?"</string>
+<string name="bluetooth_disable_profile_message">"Essa ação desativará o <xliff:g id="PROFILE_NAME">%1$s</xliff:g> do <xliff:g id="DEVICE_NAME">%2$s</xliff:g>"</string>
+<string name="bluetooth_connected">"Conectado"</string>
+<string name="bluetooth_connected_no_headset">"Conectado (sem telefone)"</string>
+<string name="bluetooth_connected_no_a2dp">"Conectado (sem mídia)"</string>
+<string name="bluetooth_connected_no_map">"Conectado (sem acesso a mensagens)"</string>
+<string name="bluetooth_connected_no_headset_no_a2dp">"Conectado (sem telefone ou mídia)"</string>
+<string name="bluetooth_disconnected">"Desconectado"</string>
+<string name="bluetooth_disconnecting">"Desconectando…"</string>
+<string name="bluetooth_connecting">"Conectando..."</string>
+<string name="bluetooth_pairing">"Pareando…"</string>
+<string name="bluetooth_device">"Dispositivo Bluetooth sem nome"</string>
+<string name="progress_scanning">"Pesquisar"</string>
+<string name="bluetooth_no_devices_found">"Nenhum dispositivo Bluetooth encontrado."</string>
+<string name="bluetooth_notif_ticker">"Solicitação de pareamento Bluetooth"</string>
+<string name="bluetooth_notif_title">"Solicitação de pareamento"</string>
+<string name="bluetooth_notif_message">"Toque para parear com <xliff:g id="DEVICE_NAME">%1$s</xliff:g>."</string>
+<string name="bluetooth_show_received_files">"Mostrar arquivos recebidos"</string>
+<string name="device_picker">"Escolher dispositivo Bluetooth"</string>
+<string name="bluetooth_permission_request">"Solicitação de permissão para Bluetooth"</string>
+<string name="bluetooth_ask_enablement">"Um app quer ativar o Bluetooth."</string>
+<string name="bluetooth_ask_discovery" product="tablet">"Um app quer tornar seu tablet visível para outros dispositivos Bluetooth por <xliff:g id="TIMEOUT">%1$d</xliff:g> segundos."</string>
+<string name="bluetooth_ask_discovery" product="default">"Um app quer tornar seu telefone visível para outros dispositivos Bluetooth por <xliff:g id="TIMEOUT">%1$d</xliff:g> segundos."</string>
+<string name="bluetooth_ask_lasting_discovery" product="tablet">"Um app quer tornar seu tablet visível para outros dispositivos Bluetooth. Você pode alterar esta opção a qualquer momento nas configurações do Bluetooth."</string>
+<string name="bluetooth_ask_lasting_discovery" product="default">"Um app quer tornar seu telefone visível para outros dispositivos Bluetooth. Você pode alterar esta opção a qualquer momento nas configurações do Bluetooth."</string>
+<string name="bluetooth_ask_start_broadcast" product="default">"<xliff:g id="APP_NAME">%1$s</xliff:g> deseja ativar a transmissão via Bluetooth para se comunicar com outros dispositivos próximos. Será possível alterar esta opção posteriormente nas configurações do Bluetooth."</string>
+<string name="bluetooth_ask_enablement_and_start_broadcast" product="default">"<xliff:g id="APP_NAME">%1$s</xliff:g> deseja ativar o Bluetooth e a transmissão via Bluetooth para se comunicar com outros dispositivos próximos. Será possível alterar esta opção posteriormente nas configurações do Bluetooth."</string>
+<string name="bluetooth_broadcasting_explaination" product="default">"Quando este recurso é ativado, o telefone pode se comunicar com outros dispositivos próximos.\n\nA transmissão usa sinais de Bluetooth de baixo consumo."</string>
+<string name="bluetooth_ask_enablement_and_discovery" product="tablet">"Um app quer ativar o Bluetooth e tornar seu tablet visível para outros dispositivos por <xliff:g id="TIMEOUT">%1$d</xliff:g> segundos."</string>
+<string name="bluetooth_ask_enablement_and_discovery" product="default">"Um app quer ativar o Bluetooth e tornar seu telefone visível para outros dispositivos por <xliff:g id="TIMEOUT">%1$d</xliff:g> segundos."</string>
+<string name="bluetooth_ask_enablement_and_lasting_discovery" product="tablet">"Um app quer ativar o Bluetooth e tornar seu tablet visível para outros dispositivos. Você pode alterar esta opção a qualquer momento nas configurações do Bluetooth."</string>
+<string name="bluetooth_ask_enablement_and_lasting_discovery" product="default">"Um app quer ativar o Bluetooth e tornar seu telefone visível para outros dispositivos. Você pode alterar esta opção a qualquer momento nas configurações do Bluetooth."</string>
+<string name="bluetooth_turning_on">"Ativando Bluetooth..."</string>
+<string name="bluetooth_turning_off">"Desligar o Bluetooth…"</string>
+<string name="bluetooth_auto_connect">"Conexão automática"</string>
+<string name="bluetooth_connection_permission_request">"Solicitação de conexão Bluetooth"</string>
+<string name="bluetooth_connection_notif_message">"Toque para conectar-se a \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\"."</string>
+<string name="bluetooth_connection_dialog_text">"Deseja conectar-se ao \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\"?"</string>
+<string name="bluetooth_phonebook_request">"Solicitação de acesso à agenda telefônica"</string>
+<string name="bluetooth_pb_acceptance_dialog_text">"%1$s deseja acessar seus contatos e o histórico de chamadas. Conceder acesso a %2$s?"</string>
+<string name="bluetooth_remember_choice">"Não perguntar novamente"</string>
+<string name="bluetooth_pb_remember_choice">"Não perguntar novamente"</string>
+<string name="bluetooth_map_request">"Solicitação de acesso a mensagens"</string>
+<string name="bluetooth_map_acceptance_dialog_text">"%1$s deseja acessar suas mensagens. Conceder acesso a %2$s?"</string>
+<string name="date_and_time">"Data e hora"</string>
+<string name="choose_timezone">"Selecione o fuso horário"</string>
+<string name="display_preview_label">"Visualizar:"</string>
+<string name="display_font_size_label">"Tamanho da fonte:"</string>
+<string name="intent_sender_sendbroadcast_text">"Enviar<xliff:g id="BROADCAST">broadcast</xliff:g>"</string>
+<string name="intent_sender_action_label">"<xliff:g id="ACTION">Action</xliff:g>:"</string>
+<string name="intent_sender_startactivity_text">"Iniciar <xliff:g id="ACTIVITY">activity</xliff:g>"</string>
+<string name="intent_sender_resource_label">"<xliff:g id="RESOURCE">Resource</xliff:g>:"</string>
+<string name="intent_sender_account_label">"Conta:"</string>
+<string name="proxy_settings_title">"Proxy"</string>
+<string name="proxy_clear_text">"Limpar"</string>
+<string name="proxy_port_label">"Porta do proxy"</string>
+<string name="proxy_exclusionlist_label">"Evitar proxy para"</string>
+<string name="proxy_exclusionlist_hint">"example.com,mycomp.test.com,localhost"</string>
+<string name="proxy_defaultView_text">"Restaurar padrões"</string>
+<string name="proxy_action_text">"Concluído"</string>
+<string name="proxy_hostname_label">"Hostname do proxy"</string>
+<string name="proxy_hostname_hint">"proxy.example.com"</string>
+<string name="proxy_error">"Atenção"</string>
+<string name="proxy_error_dismiss">"OK"</string>
+<string name="proxy_error_invalid_host">"O nome de host digitado não é válido."</string>
+<string name="proxy_error_invalid_exclusion_list">"A lista de exclusão digitada não está formatada corretamente. Insira uma lista dos domínios excluídos separados por vírgula."</string>
+<string name="proxy_error_empty_port">"É necessário preencher o campo da porta."</string>
+<string name="proxy_error_empty_host_set_port">"O campo da porta deverá estar vazio se o campo do host estiver vazio."</string>
+<string name="proxy_error_invalid_port">"A porta digitada não é válida."</string>
+<string name="proxy_warning_limited_support">"O proxy HTTP é usado pelo navegador, mas não pode ser usado por outros apps."</string>
+<string name="proxy_url_title">"URL do PAC: "</string>
+<string name="radio_info_signal_location_label">"Localização:"</string>
+<string name="radio_info_neighboring_location_label">"CID vizinho:"</string>
+<string name="radio_info_cellinfo_label">"CellInfo:"</string>
+<string name="radio_info_dcrtinfo_label">"DcRtInfo:"</string>
+<string name="radio_info_data_attempts_label">"Tentativas de dados:"</string>
+<string name="radio_info_gprs_service_label">"Serviço GPRS:"</string>
+<string name="radio_info_roaming_label">"Roaming:"</string>
+<string name="radio_info_imei_label">"IMEI:"</string>
+<string name="radio_info_call_redirect_label">"Redirecionamento da chamada:"</string>
+<string name="radio_info_ppp_resets_label">"Número de redefinições PPP desde a inicialização:"</string>
+<string name="radio_info_gsm_disconnects_label">"Desconexões GSM:"</string>
+<string name="radio_info_current_network_label">"Rede atual:"</string>
+<string name="radio_info_data_successes_label">"Êxito dos dados:"</string>
+<string name="radio_info_ppp_received_label">"PPP recebido:"</string>
+<string name="radio_info_gsm_service_label">"Serviço GSM:"</string>
+<string name="radio_info_signal_strength_label">"Potência do sinal:"</string>
+<string name="radio_info_call_status_label">"Status da chamada:"</string>
+<string name="radio_info_ppp_sent_label">"PPP enviado:"</string>
+<string name="radio_info_radio_resets_label">"Redefinições de rádio:"</string>
+<string name="radio_info_message_waiting_label">"Mensagem em espera:"</string>
+<string name="radio_info_phone_number_label">"Número de telefone:"</string>
+<string name="radio_info_band_mode_label">"Selecionar frequência de rádio"</string>
+<string name="radio_info_network_type_label">"Tipo de rede:"</string>
+<string name="radio_info_set_perferred_label">"Definir tipo de rede preferido:"</string>
+<string name="radio_info_ping_ipaddr">"Aplicar ping em IpAddr:"</string>
+<string name="radio_info_ping_hostname">"Aplicar ping no nome do host (www.google.com):"</string>
+<string name="radio_info_http_client_test">"Teste do Cliente HTTP:"</string>
+<string name="ping_test_label">"Executar teste de ping"</string>
+<string name="radio_info_smsc_label">"SMSC:"</string>
+<string name="radio_info_smsc_update_label">"Atualizar"</string>
+<string name="radio_info_smsc_refresh_label">"Atualizar"</string>
+<string name="radio_info_toggle_dns_check_label">"Ativar/desativar verificação de DNS"</string>
+<string name="oem_radio_info_label">"Informações/configurações específicas de OEM"</string>
+<string name="band_mode_title">"Definir frequência GSM/UMTS"</string>
+<string name="band_mode_loading">"Carregando a lista de frequências…"</string>
+<string name="band_mode_set">"Definir"</string>
+<string name="band_mode_failed">"Falha"</string>
+<string name="band_mode_succeeded">"Feito"</string>
+<string name="sdcard_changes_instructions">"As alterações são aplicadas quando o cabo USB é reconectado."</string>
+<string name="sdcard_settings_screen_mass_storage_text">"Ativar o armazenamento USB em massa"</string>
+<string name="sdcard_settings_total_bytes_label">"Total de bytes:"</string>
+<string name="sdcard_settings_not_present_status" product="nosdcard">"Armazenam. USB não conectado."</string>
+<string name="sdcard_settings_not_present_status" product="default">"Sem cartão SD."</string>
+<string name="sdcard_settings_available_bytes_label">"Bytes disponíveis:"</string>
+<string name="sdcard_settings_mass_storage_status" product="nosdcard">"Armaz. USB usado como armaz. em massa."</string>
+<string name="sdcard_settings_mass_storage_status" product="default">"O cartão SD está sendo usado como dispositivo de armazenamento em massa."</string>
+<string name="sdcard_settings_unmounted_status" product="nosdcard">"Armazen. USB pode ser removido"</string>
+<string name="sdcard_settings_unmounted_status" product="default">"O cartão SD já pode ser removido com segurança."</string>
+<string name="sdcard_settings_bad_removal_status" product="nosdcard">"Armaz. USB removido em uso!"</string>
+<string name="sdcard_settings_bad_removal_status" product="default">"O cartão SD foi removido enquanto ainda estava em uso!"</string>
+<string name="sdcard_settings_used_bytes_label">"Bytes usados:"</string>
+<string name="sdcard_settings_scanning_status" product="nosdcard">"Procurando arquivos na USB..."</string>
+<string name="sdcard_settings_scanning_status" product="default">"Procurando mídia no cartão SD…"</string>
+<string name="sdcard_settings_read_only_status" product="nosdcard">"Armaz. USB somente leitura."</string>
+<string name="sdcard_settings_read_only_status" product="default">"Cartão SD conectado como somente leitura."</string>
+<string name="skip_label">"Pular"</string>
+<string name="next_label">"Avançar"</string>
+<string name="language_picker_title">"Idioma"</string>
+<string name="activity_picker_label">"Selecione a atividade"</string>
+<string name="device_info_label">"Informações do dispositivo"</string>
+<string name="battery_info_label">"Informações da bateria"</string>
+<string name="display_label">"Tela"</string>
+<string name="phone_info_label" product="tablet">"Informações do tablet"</string>
+<string name="phone_info_label" product="default">"Informações do telefone"</string>
+<string name="sd_card_settings_label" product="nosdcard">"Armaz. USB"</string>
+<string name="sd_card_settings_label" product="default">"Cartão SD"</string>
+<string name="proxy_settings_label">"Configurações de proxy"</string>
+<string name="cancel">"Cancelar"</string>
+<string name="cancel_all_caps">"CANCELAR"</string>
+<string name="continue_all_caps">"CONTINUAR"</string>
+<string name="okay">"Ok"</string>
+<string name="yes_all_caps">"SIM"</string>
+<string name="no_all_caps">"NÃO"</string>
+<string name="forget">"ESQUECER"</string>
+<string name="settings_label">"Configurações"</string>
+<string name="settings_label_launcher">"Configurar"</string>
+<string name="settings_shortcut">"Atalho para as configurações"</string>
+<string name="airplane_mode">"Modo avião"</string>
+<string name="radio_controls_title">"Mais"</string>
+<string name="wireless_networks_settings_title">"Redes sem fio e outras"</string>
+<string name="radio_controls_summary">"Gerenciar Wi-Fi, Bluetooth, modo avião, redes celulares e VPNs"</string>
+<string name="cellular_data_title">"Dados da rede celular"</string>
+<string name="calls_title">"Chamadas"</string>
+<string name="sms_messages_title">"Mensagens SMS"</string>
+<string name="cellular_data_summary">"Permitir uso de dados pela rede celular"</string>
+<string name="allow_data_usage_title">"Permitir usar dados em roaming"</string>
+<string name="roaming">"Roaming de dados"</string>
+<string name="roaming_enable">"Conectar aos serviços de dados quando estiver em roaming"</string>
+<string name="roaming_disable">"Conectar aos serviços de dados quando estiver em roaming"</string>
+<string name="roaming_reenable_message">"Você perdeu a conectividade de dados porque deixou o roaming de dados da sua rede doméstica desativado."</string>
+<string name="roaming_turn_it_on_button">"Ativar"</string>
+<string name="roaming_warning">"Quando você permite o roaming de dados, poderão ser cobradas taxas significativas de roaming!"</string>
+<string name="roaming_warning_multiuser" product="tablet">"Ao permitir o roaming de dados, você poderá receber cobranças significativas de roaming.\n\nEsta configuração afeta todos os usuários do tablet."</string>
+<string name="roaming_warning_multiuser" product="default">"Ao permitir o roaming de dados, você poderá receber cobranças significativas de roaming.\n\nEsta configuração afeta todos os usuários do telefone."</string>
+<string name="roaming_reenable_title">"Permitir roaming de dados?"</string>
+<string name="networks">"Seleção de operador"</string>
+<string name="sum_carrier_select">"Selecione um operador de rede"</string>
+<string name="date_and_time_settings_title">"Data e hora"</string>
+<string name="date_and_time_settings_title_setup_wizard">"Configurar data e hora"</string>
+<string name="date_and_time_settings_summary">"Definir data, hora, fuso horário e formatos"</string>
+<string name="date_time_auto">"Data e hora automáticas"</string>
+<string name="date_time_auto_summaryOn">"Usar horário fornecido pela rede"</string>
+<string name="date_time_auto_summaryOff">"Usar horário fornecido pela rede"</string>
+<string name="zone_auto">"Fuso horário automático"</string>
+<string name="zone_auto_summaryOn">"Usar fuso horário fornecido pela rede"</string>
+<string name="zone_auto_summaryOff">"Usar fuso horário fornecido pela rede"</string>
+<string name="date_time_24hour_title">"Formato de 24 horas"</string>
+<string name="date_time_24hour">"Formato de 24 horas"</string>
+<string name="date_time_set_time_title">"Horário"</string>
+<string name="date_time_set_time">"Definir hora"</string>
+<string name="date_time_set_timezone_title">"Fuso horário"</string>
+<string name="date_time_set_timezone">"Selecionar fuso horário"</string>
+<string name="date_time_set_date_title">"Data"</string>
+<string name="date_time_set_date">"Definir data"</string>
+<string name="zone_list_menu_sort_alphabetically">"Classificar em ordem alfabética"</string>
+<string name="zone_list_menu_sort_by_timezone">"Classificar por fuso horário"</string>
+<string name="date_picker_title">"Data"</string>
+<string name="time_picker_title">"Hora"</string>
+<string name="biometric_weak_improve_matching_title">"Melhorar a correspondência de rosto"</string>
+<string name="biometric_weak_liveliness_title">"Verificação de presença viva"</string>
+<string name="biometric_weak_liveliness_summary">"Exigir piscar de olhos ao desbloquear"</string>
+<string name="lock_after_timeout">"Bloquear automaticamente"</string>
+<string name="lock_after_timeout_summary">"<xliff:g id="TIMEOUT_STRING">%1$s</xliff:g> após modo de espera"</string>
+<string name="lock_after_timeout_summary_with_exception">"<xliff:g id="TIMEOUT_STRING">%1$s</xliff:g> após suspensão, exceto quando mantido desbloqueado por <xliff:g id="TRUST_AGENT_NAME">%2$s</xliff:g>"</string>
+<string name="show_owner_info_on_lockscreen_label">"Mostrar informações do proprietário na tela de bloqueio"</string>
+<string name="owner_info_settings_title">"Info do proprietário"</string>
+<string name="security_enable_widgets_title">"Ativar widgets"</string>
+<string name="security_enable_widgets_disabled_summary">"Desativado pelo administrador"</string>
+<string name="owner_info_settings_edit_text_hint">"Digite o texto a ser exibido na tela de bloqueio"</string>
+<string name="show_user_info_on_lockscreen_label">"Mostrar informações do usuário ao bloquear a tela"</string>
+<string name="user_info_settings_title">"Dados do usuário"</string>
+<string name="show_profile_info_on_lockscreen_label">"Mostrar informações do perfil na tela de bloqueio"</string>
+<string name="profile_info_settings_title">"Informação do perfil"</string>
+<string name="Accounts_settings_title">"Contas"</string>
+<string name="location_settings_title">"Localização"</string>
+<string name="account_settings_title">"Contas"</string>
+<string name="security_settings_title">"Segurança"</string>
+<string name="security_settings_summary">"Definir Meu local, desbloqueio de tela, bloqueio do SIM e do armazenamento de credenciais"</string>
+<string name="cdma_security_settings_summary">"Definir o Meu local, o desbloqueio de tela, o bloqueio do armazenamento de credenciais"</string>
+<string name="security_passwords_title">"Senhas"</string>
+<string name="crypt_keeper_settings_title">"Criptografia"</string>
+<string name="crypt_keeper_encrypt_title" product="tablet">"Criptografar tablet"</string>
+<string name="crypt_keeper_encrypt_title" product="default">"Criptografar telefone"</string>
+<string name="crypt_keeper_encrypted_summary">"Criptografado"</string>
+<string name="crypt_keeper_desc" product="tablet">"Você pode criptografar suas contas, configurações, apps transferidos e seus dados, mídia e outros arquivos. Após criptografar seu tablet, supondo que um bloqueio de tela tenha sido configurado (ou seja, um padrão, PIN numérico ou senha), será necessário desbloquear a tela para descriptografar o smartphone sempre que você ligá-lo. A única outra maneira de descriptografar é por meio de uma redefinição para configuração original, apagando todos os seus dados.\n\nA criptografia leva um hora ou mais. Você deve iniciar com a bateria carregada e manter seu tablet conectado até que a criptografia seja concluída. Se você interromper o processo de criptografia, perderá alguns ou todos os seus dados."</string>
+<string name="crypt_keeper_desc" product="default">"Você pode criptografar suas contas, configurações, apps transferidos e seus dados, mídia e outros arquivos. Após criptografar seu smartphone, supondo que um bloqueio de tela tenha sido configurado (ou seja, um padrão, PIN numérico ou senha), será necessário desbloquear a tela para descriptografar o smartphone sempre que você ligá-lo. A única outra maneira de descriptografar é por meio de uma redefinição para configuração original, apagando todos os seus dados.\n\nA criptografia leva um hora ou mais. Você deve iniciar com a bateria carregada e manter seu smartphone conectado até que a criptografia seja concluída. Se você interromper o processo de criptografia, perderá alguns ou todos os seus dados."</string>
+<string name="crypt_keeper_button_text" product="tablet">"Criptografar tablet"</string>
+<string name="crypt_keeper_button_text" product="default">"Criptografar telefone"</string>
+<string name="crypt_keeper_low_charge_text">"Carregue sua bateria e tente novamente."</string>
+<string name="crypt_keeper_unplugged_text">"Conecte seu carregador e tente novamente."</string>
+<string name="crypt_keeper_dialog_need_password_title">"Não há PIN ou senha da tela de bloqueio"</string>
+<string name="crypt_keeper_dialog_need_password_message">"É necessário definir um PIN ou uma senha para a tela de bloqueio antes de iniciar a criptografia."</string>
+<string name="crypt_keeper_confirm_encrypt">"Você precisa desenhar o seu padrão de desbloqueio para confirmar a criptografia do dispositivo."</string>
+<string name="crypt_keeper_confirm_title">"Criptografar?"</string>
+<string name="crypt_keeper_final_desc" product="tablet">"A operação de criptografia é irreversível e, se for interrompida, você perderá seus dados. A criptografia leva cerca de uma hora ou mais, e nesse período o tablet será reiniciado várias vezes."</string>
+<string name="crypt_keeper_final_desc" product="default">"A operação de criptografia é irreversível e, se for interrompida, você perderá seus dados. A criptografia leva uma hora ou mais, e nesse período o telefone será reiniciado várias vezes."</string>
+<string name="crypt_keeper_setup_title">"Criptografando"</string>
+<string name="crypt_keeper_setup_description" product="tablet">"Aguarde enquanto seu tablet está sendo criptografado. <xliff:g id="PERCENT">^1</xliff:g>% concluído."</string>
+<string name="crypt_keeper_setup_description" product="default">"Aguarde enquanto seu telefone está sendo criptografado. <xliff:g id="PERCENT">^1</xliff:g>% concluído."</string>
+<string name="crypt_keeper_setup_time_remaining" product="tablet">"Aguarde enquanto seu tablet é criptografado. Tempo restante: <xliff:g id="DURATION">^1</xliff:g>"</string>
+<string name="crypt_keeper_setup_time_remaining" product="default">"Aguarde enquanto seu telefone é criptografado. Tempo restante: <xliff:g id="DURATION">^1</xliff:g>"</string>
+<string name="crypt_keeper_force_power_cycle" product="tablet">"Para desbloquear seu tablet, desligue-o e ligue-o novamente."</string>
+<string name="crypt_keeper_force_power_cycle" product="default">"Para desbloquear seu smartphone, desligue-o e ligue-o novamente."</string>
+<string name="crypt_keeper_warn_wipe">"Aviso: o dispositivo será apagado após mais <xliff:g id="COUNT">^1</xliff:g> tentativas fracassadas de ser desbloqueado!"</string>
+<string name="crypt_keeper_enter_password">"Digite sua senha"</string>
+<string name="crypt_keeper_failed_title">"Falha na criptografia"</string>
+<string name="crypt_keeper_failed_summary" product="tablet">"A criptografia foi interrompida e não pode ser concluída. Por esse motivo, os dados em seu tablet não podem ser acessados. \n\n Para continuar usando seu tablet, é necessário restaurar as configurações originais. Quando você configurar seu tablet após a restauração, poderá recuperar todos os dados que foram salvos em backup em sua Conta do Google."</string>
+<string name="crypt_keeper_failed_summary" product="default">"A criptografia foi interrompida e não pode ser concluída. Por esse motivo, os dados em seu telefone não podem mais ser acessados. \n\nPara continuar usando seu telefone, é necessário restaurar as configurações originais. Quando você configurar seu telefone após a restauração, poderá recuperar todos os dados que foram salvos em backup em sua Conta do Google."</string>
+<string name="crypt_keeper_data_corrupt_title">"Falha na descriptografia"</string>
+<string name="crypt_keeper_data_corrupt_summary" product="tablet">"A senha digitada está correta, mas os dados estão corrompidos. \n\nPara continuar usando seu tablet, é necessário redefinir para as configurações originais. Quando você configurar seu tablet após a redefinição, poderá restaurar todos os dados que foram salvos em backup em sua Conta do Google."</string>
+<string name="crypt_keeper_data_corrupt_summary" product="default">"A senha digitada está correta, mas os dados estão corrompidos. \n\nPara continuar usando seu smartphone, é necessário redefinir para as configurações originais. Quando você configurar seu smartphone após a redefinição, poderá restaurar todos os dados que foram salvos em backup em sua Conta do Google."</string>
+<string name="crypt_keeper_switch_input_method">"Alterar o método de entrada"</string>
+<string name="lock_settings_picker_title">"Escolher bloq. de tela"</string>
+<string name="backup_lock_settings_picker_title">"Selec. o bloq. de backup"</string>
+<string name="unlock_set_unlock_launch_picker_title">"Bloqueio de tela"</string>
+<string name="unlock_set_unlock_launch_picker_change_title">"Alterar tela bloqueio"</string>
+<string name="unlock_set_unlock_launch_picker_change_summary">"Alterar ou desativar o padrão, o PIN ou a segurança da senha"</string>
+<string name="unlock_set_unlock_launch_picker_enable_summary">"Escolha um método para bloquear a tela"</string>
+<string name="unlock_backup_info_summary">"Quando o Desbloqueio facial não puder identificar você, como deseja desbloquear?"</string>
+<string name="unlock_set_unlock_off_title">"Nenhuma"</string>
+<string name="unlock_set_unlock_none_title">"Deslizar"</string>
+<string name="unlock_set_unlock_none_summary">"Sem segurança"</string>
+<string name="unlock_set_unlock_biometric_weak_title">"Desbloqueio facial"</string>
+<string name="unlock_set_unlock_biometric_weak_summary">"De baixa segurança, experimental"</string>
+<string name="unlock_set_unlock_pattern_title">"Padrão"</string>
+<string name="unlock_set_unlock_pattern_summary">"Segurança média"</string>
+<string name="unlock_set_unlock_pin_title">"PIN"</string>
+<string name="unlock_set_unlock_pin_summary">"Segurança média a alta"</string>
+<string name="unlock_set_unlock_password_title">"Senha"</string>
+<string name="unlock_set_unlock_password_summary">"Alta segurança"</string>
+<string name="unlock_disable_frp_warning_content">"Os recursos de proteção de dispositivos não funcionarão mais."</string>
+<string name="unlock_set_unlock_disabled_summary">"Des. pelo adm., pol. de cript. ou armaz. de cred."</string>
+<string name="unlock_set_unlock_mode_off">"Nenhuma"</string>
+<string name="unlock_set_unlock_mode_none">"Deslizar"</string>
+<string name="unlock_set_unlock_mode_biometric_weak">"Desbloqueio facial"</string>
+<string name="unlock_set_unlock_mode_pattern">"Padrão"</string>
+<string name="unlock_set_unlock_mode_pin">"PIN"</string>
+<string name="unlock_set_unlock_mode_password">"Senha"</string>
+<string name="unlock_disable_lock_title">"Desativar bloqueio da tela"</string>
+<string name="unlock_disable_lock_pattern_summary">"Remover padrão de desbloqueio"</string>
+<string name="unlock_disable_lock_pin_summary">"Remover PIN de desbloqueio"</string>
+<string name="unlock_disable_lock_password_summary">"Remover senha de desbloqueio"</string>
+<string name="unlock_disable_lock_unknown_summary">"Remover bloqueio de tela"</string>
+<string name="unlock_change_lock_pattern_title">"Mudar padrão de desbloqueio"</string>
+<string name="unlock_change_lock_pin_title">"Mudar PIN de desbloqueio"</string>
+<string name="unlock_change_lock_password_title">"Mudar senha de desbloqueio"</string>
+<string name="lockpassword_password_too_short">"A senha deve ter no mínimo %d caracteres"</string>
+<string name="lockpassword_pin_too_short">"O PIN deve ter no mínimo %d caracteres"</string>
+<string name="lockpassword_press_continue">"Toque em Continuar quando terminar"</string>
+<string name="lockpassword_continue_label">"Continuar"</string>
+<string name="lockpassword_password_too_long">"A senha deve ter menos de <xliff:g id="NUMBER">%d</xliff:g> caracteres."</string>
+<string name="lockpassword_pin_too_long">"O PIN deve ter menos de <xliff:g id="NUMBER">%d</xliff:g> dígitos."</string>
+<string name="lockpassword_pin_contains_non_digits">"O PIN deve conter apenas dígitos de 0 a 9."</string>
+<string name="lockpassword_pin_recently_used">"O administrador do dispositivo não permite usar um PIN recente."</string>
+<string name="lockpassword_illegal_character">"A senha contém um caractere incorreto."</string>
+<string name="lockpassword_password_requires_alpha">"A senha deve conter no mínimo uma letra."</string>
+<string name="lockpassword_password_requires_digit">"A senha deve conter no mínimo um dígito."</string>
+<string name="lockpassword_password_requires_symbol">"A senha deve conter no mínimo um símbolo."</string>
+<plurals name="lockpassword_password_requires_letters">
+<item quantity="one">"A senha deve conter pelo menos uma letra."</item>
+<item quantity="other">"A senha deve conter pelo menos %d letras."</item>
+</plurals>
+<plurals name="lockpassword_password_requires_lowercase">
+<item quantity="one">"A senha deve conter pelo menos uma letra minúscula."</item>
+<item quantity="other">"A senha deve conter pelo menos %d letras minúsculas."</item>
+</plurals>
+<plurals name="lockpassword_password_requires_uppercase">
+<item quantity="one">"A senha deve conter pelo menos uma letra maiúscula."</item>
+<item quantity="other">"A senha deve conter pelo menos %d letras maiúsculas."</item>
+</plurals>
+<plurals name="lockpassword_password_requires_numeric">
+<item quantity="one">"A senha deve conter pelo menos um dígito numérico."</item>
+<item quantity="other">"A senha deve conter pelo menos %d dígitos numéricos."</item>
+</plurals>
+<plurals name="lockpassword_password_requires_symbols">
+<item quantity="one">"A senha deve conter pelo menos um símbolo especial."</item>
+<item quantity="other">"A senha deve conter pelo menos %d símbolos especiais."</item>
+</plurals>
+<plurals name="lockpassword_password_requires_nonletter">
+<item quantity="one">"A senha deve conter pelo menos um caractere que não seja letra."</item>
+<item quantity="other">"A senha deve conter pelo menos %d caracteres que não sejam letras."</item>
+</plurals>
+<string name="lockpassword_password_recently_used">"O administrador do dispositivo não permite usar uma senha recente."</string>
+<string name="lockpassword_pin_no_sequential_digits">"Não é permitido usar uma sequência de dígitos em ordem crescente, decrescente ou repetidos"</string>
+<string name="lockpassword_ok_label">"OK"</string>
+<string name="lockpassword_cancel_label">"Cancelar"</string>
+<string name="lockpattern_tutorial_cancel_label">"Cancelar"</string>
+<string name="lockpattern_tutorial_continue_label">"Avançar"</string>
+<string name="lock_setup">"A configuração foi concluída."</string>
+<string name="device_admin_title">"Administração do dispositivo"</string>
+<string name="manage_device_admin">"Administradores do dispositivo"</string>
+<string name="manage_device_admin_summary">"Visualizar ou desativar administradores do dispositivo"</string>
+<string name="manage_trust_agents">"Agentes de confiança"</string>
+<string name="disabled_because_no_backup_security">"Para usar, primeiro defina um bloqueio de tela"</string>
+<string name="manage_trust_agents_summary">"Ver ou desativar agentes de confiança"</string>
+<string name="fingerprint_settings_title">"ID de impressão digital"</string>
+<string name="fingerprint_function_title">"Funções de impressão digital"</string>
+<string name="fingerprint_manage_main">"Gerenc. de impr digital"</string>
+<string name="managing_setting_fingerprint">"Ger. e config funções relac. a impr. digital"</string>
+<string name="touch_manage_title">"Gerenciamento do controle de toque"</string>
+<string name="recieve_phone_calls">"Chamadas atendidas"</string>
+<string name="recieve_phnoecalls_by_fingerprint">"Toque no sensor de impressão digital e mantenha pressionado para atender uma chamada"</string>
+<string name="take_pictures">Fotos/vídeos</string>
+<string name="take_pictures_by_fingerprint">"Da tela do visor da câmera, toque e mantenha o sensor de impressão digital para tirar uma foto"</string>
+<string name="fingerprint_note">"Observação: estes gestos de controle de toque podem ser realizados com qualquer dedo e não requerem verificação de impressão digital."</string>
+<string name="enter_password_title">"Digite a senha"</string>
+<string name="enter_unlock_password">"Insira a senha de desbloqueio"</string>
+<string name="enter_unlock_password_wrong">"Tente novamente:"</string>
+<string name="switch_unlock_style_title">"Alterar método de bloqueio de tela"</string>
+<string name="fingerprint_password_explain">"Para proteger sua privacidade, a função de impressão digital só pode ser usada com os métodos de bloqueio de senha e de PIN."</string>
+<string name="fingerprint_number_password">"FIXAR"</string>
+<string name="enter_number_password">"Digite seu PIN"</string>
+<string name="fingerprint_complex_password">"Senha"</string>
+<string name="enter_complex_password">"Insira sua senha"</string>
+<string name="number_password_demand">"O PIN deve ter pelo menos 4 dígitos"</string>
+<string name="complex_password_demand">"A senha deve ter pelo menos 4 caracteres"</string>
+<string name="click_continue">"Toque em Continuar quando finalizar"</string>
+<string name="confirm_password">"Confirmar a senha"</string>
+<string name="password_not_match">"As senhas não coincidem"</string>
+<string name="bluetooth_quick_toggle_title">"Bluetooth"</string>
+<string name="bluetooth_quick_toggle_summary">"Ativar Bluetooth"</string>
+<string name="bluetooth_settings">"Bluetooth"</string>
+<string name="bluetooth_settings_title">"Bluetooth"</string>
+<string name="bluetooth_settings_summary">"Gerenciar conexões, definir o nome e detecção do dispositivo"</string>
+<string name="bluetooth_pairing_request">"Solicitação de pareamento Bluetooth"</string>
+<string name="bluetooth_enter_pin_msg">"Dispositivo"</string>
+<string name="bluetooth_pairing_key_msg">"Código de pareamento"</string>
+<string name="bluetooth_enter_passkey_msg">"Digite o código de pareamento e pressione \"Return\" ou \"Enter\""</string>
+<string name="bluetooth_enable_alphanumeric_pin">"O PIN contém letras ou símbolos"</string>
+<string name="bluetooth_pin_values_hint">"Geralmente, 0000 ou 1234"</string>
+<string name="bluetooth_enter_pin_other_device">"Talvez seja necessário digitar este PIN no outro dispositivo."</string>
+<string name="bluetooth_enter_passkey_other_device">"Talvez seja necessário digitar esta senha no outro dispositivo."</string>
+<string name="bluetooth_confirm_passkey_msg">"Para parear com:&lt;br&gt;<b>
+<xliff:g id="DEVICE_NAME">%1$s</xliff:g>
+</b>&lt;br&gt;&lt;br&gt;Verifique se ele está mostrando a seguinte senha:&lt;br&gt;<b>
+<xliff:g id="PASSKEY">%2$s</xliff:g>
+</b>"</string>
+<string name="bluetooth_incoming_pairing_msg">"De:&lt;br&gt;<b>
+<xliff:g id="DEVICE_NAME">%1$s</xliff:g>
+</b>&lt;br&gt;&lt;br&gt;Parear com este dispositivo?"</string>
+<string name="bluetooth_display_passkey_pin_msg">"Para parear com:<xliff:g id="BOLD1_0">&lt;br>&lt;b></xliff:g><xliff:g id="DEVICE_NAME">%1$s</xliff:g><xliff:g id="END_BOLD1">&lt;/b>&lt;br>&lt;br></xliff:g>Digite no dispositivo:<xliff:g id="BOLD2_1">&lt;br>&lt;b></xliff:g><xliff:g id="PASSKEY">%2$s</xliff:g><xliff:g id="END_BOLD2">&lt;/b></xliff:g>. Em seguida, pressione Voltar ou Entrar."</string>
+</resources>

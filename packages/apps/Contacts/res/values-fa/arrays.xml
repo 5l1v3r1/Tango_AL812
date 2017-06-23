@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="menuItems">
+<item>مخاطبین برای نمایش</item>
+<item>واردکردن/صادرکردن</item>
+<item>حساب ‌ها</item>
+<item>حذف</item>
+<item>ادغام‌کردن مخاطبین</item>
+</string-array>
+<string-array name="items_menu">
+<item>جایگذاری</item>
+<item>حذف گزارش‌ تماس</item>
+<item>مشاهده نوع تماس</item>
+<item>تنظیمات شماره‌گیری سریع</item>
+<item>محافظ رازداری</item>
+<item>لیست سیاه</item>
+<item>تنظیمات تماس</item>
+</string-array>
+</resources>

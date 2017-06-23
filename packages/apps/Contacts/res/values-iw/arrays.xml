@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="menuItems">
+<item>אנשי קשר להצגה</item>
+<item>ייבא/ייצא</item>
+<item>חשבונות</item>
+<item>מחק</item>
+<item>מזג אנשי קשר</item>
+</string-array>
+<string-array name="items_menu">
+<item>הדבק</item>
+<item>מחק יומן שיחות</item>
+<item>הצג סוג שיחה</item>
+<item>הגדרות חיוג מהיר</item>
+<item>הגנת פרטיות</item>
+<item>רשימה שחורה</item>
+<item>הגדרות שיחה</item>
+</string-array>
+</resources>
